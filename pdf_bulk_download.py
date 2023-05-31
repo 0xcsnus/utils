@@ -64,3 +64,4 @@ base_url = 'url'
 directory = 'dir'
 
 download_pdfs(base_url, directory)
+
